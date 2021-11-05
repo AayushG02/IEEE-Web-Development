@@ -1,0 +1,28 @@
+body {
+    background-color: #F9F3DF;
+}
+
+h1 {
+    text-align: center;
+    color: #6C4A4A;
+}
+.image {
+    text-align: center;
+}
+.fifa {
+    text-align: right;
+}
+.table-header{
+    text-align: center;
+    margin-bottom: 0;
+}
+table {
+    margin: auto;
+    border: 1px solid #6C4A4A;
+    border-collapse: collapse;
+}
+th, td{
+    padding: 7px;
+    border: 1px solid #6C4A4A;
+}
+
